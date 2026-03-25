@@ -10,7 +10,7 @@ export default function RomanticFlowerSurprise() {
     "https://images.unsplash.com/photo-1520813792240-56fc4a3765a7?q=80&w=600&auto=format&fit=crop",
   ];
 
-  const message = `Gửi em,\n\nCảm ơn em đã xuất hiện và làm cho những ngày bình thường của anh trở nên đặc biệt hơn.\nAnh làm trang web nhỏ này chỉ để nói rằng: anh rất trân trọng em, rất nhớ em, và rất thương em.\n\nMỗi bông hoa nở ra là một điều anh muốn dành cho em: sự dịu dàng, niềm vui, và một chút lãng mạn nho nhỏ.\n\nYêu em nhiều. ❤️`;
+  const message = `Gửi em,\nCảm ơn em đã xuất hiện và làm cho những ngày bình thường của anh trở nên đặc biệt hơn.\nAnh làm trang web nhỏ này chỉ để nói rằng: anh rất trân trọng em, rất nhớ em, và rất thương em. Mỗi bông hoa nở ra là một điều anh muốn dành cho em: sự dịu dàng, niềm vui, và một chút lãng mạn nho nhỏ.\nKhi anh làm món quà nhỏ này thì anh nhớ ra mình không có một bức ảnh chung nào. Em có muốn lấp đầy những bức ảnh kia bằng ảnh chụp chung của chúng mình không?\nYêu em nhiều. ❤️`;
 
   const fallingPhotos = Array.from({ length: 16 }, (_, i) => ({
     id: i,
